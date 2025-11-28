@@ -2,7 +2,7 @@
 <h3 align="center">AI-First Developer • Embedded Systems Builder • Cybersecurity Researcher • HealthTech & Ayurveda Innovator</h3>
 
 <!-- Working Cat GIF -->
-<img align="right" alt="Working Cat" width="300" src="https://media.tenor.com/JPLcB_4zHncAAAAC/cat-cute.gif">
+<img align="right" alt="Working Cat" width="300" src="https://media1.tenor.com/m/M-ibWYQzmiIAAAAC/cat-cute.gif">
 
 - 🤖 I’m an **AI-first coder**, using tools like ChatGPT, Aider CLI, GitHub Copilot, and Perplexity to code faster, debug smarter, and build production-ready projects.
 - 🌱 I’m currently learning **Artificial Intelligence, Software Development, and Embedded Engineering**, and applying them to real-world **medical and Ayurveda-based healthtech** solutions.
