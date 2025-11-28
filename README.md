@@ -10,7 +10,7 @@
 - 🧬 I focus on integrating **AI + Medicine**, building solutions like Prakriti prediction models, physiological signal analysis, and wearable diagnostics.
 - 🏥 My goal is to create next-generation **AI-driven healthcare tools**, including emergency medical portals and AI-powered Ayurvedic smartwatches.
 - 💬 Ask me about **AI/ML, Java, Python, ESP32, Sensors, Cybersecurity, PCB Design, NestJS, Angular**, or AI-assisted development.
-- 📫 Email: **himanshuagarwal.ji@gmail.com**
+
 
 ---
 
